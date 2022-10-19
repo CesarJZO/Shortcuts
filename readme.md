@@ -4,4 +4,4 @@ In this repo I will save shortcuts that I consider useful for the software that 
 
 ## Software
 
-- (Microsoft Edge)[./Edge.md]
+- [Microsoft Edge](./edge.md)
